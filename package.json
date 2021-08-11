@@ -1,0 +1,20 @@
+{
+  "name": "my-dev-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonyssantos/my-dev-projects.git"
+  },
+  "keywords": [],
+  "author": "Adonys Santos <adonyssantosjimenez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonyssantos/my-dev-projects/issues"
+  },
+  "homepage": "https://github.com/adonyssantos/my-dev-projects#readme"
+}
